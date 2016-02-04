@@ -1,2 +1,4 @@
 # IGCollectionViewFlowLayoutMoveEngine
 自用，CollectionView使用FlowLayout时支持拖动排序
+
+参考自：RACollectionViewReorderableTripletLayout（https://github.com/ra1028/RACollectionViewReorderableTripletLayout ）
